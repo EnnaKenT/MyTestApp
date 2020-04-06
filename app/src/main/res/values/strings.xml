@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">MyTestApp</string>
+
+    <string name="title_format">Title:\n%s</string>
+    <string name="author_format">Author:\n%s</string>
+    <string name="created_at_format">Created at:\n%s</string>
+    <string name="no_items_selected">No items selected</string>
+    <string name="items_selected_format">%d items selected</string>
+
+</resources>
